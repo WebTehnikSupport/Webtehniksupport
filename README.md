@@ -4,3 +4,9 @@
 https://github.com/alex-tiurin/espresso-guide
 Библиотека
 https://github.com/alex-tiurin/espresso-page-object
+Автоматизация тестирования моб уязвимости (Drozer) это клиент серверное приложение
+https://github.com/WithSecureLabs/drozer
+find security bugs
+https://github.com/find-sec-bugs/find-sec-bugs   или https://find-sec-bugs.github.io/
+InsecureBankv2
+https://github.com/dineshshetty/Android-InsecureBankv2
