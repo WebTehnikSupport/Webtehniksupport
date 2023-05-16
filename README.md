@@ -10,3 +10,5 @@ find security bugs
 https://github.com/find-sec-bugs/find-sec-bugs   или https://find-sec-bugs.github.io/
 InsecureBankv2
 https://github.com/dineshshetty/Android-InsecureBankv2
+
+Гайд avasp mobile security testing ?
