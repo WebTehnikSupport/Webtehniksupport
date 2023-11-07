@@ -12,4 +12,6 @@ InsecureBankv2
 https://github.com/dineshshetty/Android-InsecureBankv2
 
 Гайд avasp mobile security testing ?
-https://github.com/artichokeee/test-assignments  Список тестовых заданий для тестировщиков
+
+Список тестовых заданий для тестировщиков
+https://github.com/artichokeee/test-assignments 
